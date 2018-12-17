@@ -1,0 +1,10 @@
+azure
+computer name 
+jenkins
+public ip
+13.71.84.118
+saran
+Jenkins@12345
+
+subscription id
+3112e009-f2d6-4820-bf25-695cce87e4a6
